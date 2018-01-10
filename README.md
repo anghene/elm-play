@@ -13,6 +13,8 @@ Some resources I recommend for Elm Beginners are:
 
 ## Books
 
+0. [Elm's very own guide](https://guide.elm-lang.org) is Ground 0 for your learning of Elm.
+
 1. [Manning's](http://manning.com) [Elm in Action](https://www.manning.com/books/elm-in-action) by [Richard Feldman](http://twitter.com/rtfeldman) is just the right stuff !
 
 2. [ElmProgramming.com](http://elmprogramming.com) by [Pawan Poudel](https://github.com/pawanpoudel) seems to shine some insightful stuff.
