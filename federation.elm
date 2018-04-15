@@ -43,7 +43,7 @@ view model =
         ]
     , tbody_
         [ tr_
-            [ td_ [ text "Vlad Anghene" ]
+            [ td_ [ text "GazorpaZorp Birdperson" ]
             , td_ [ text "30" ]
             , td_ [ fieldset []
                    [ checkbox toggleFed "Federation Membership"
